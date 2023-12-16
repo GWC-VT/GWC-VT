@@ -1,4 +1,10 @@
-# <u>👋 Hi, we're Girls Who Code @ Virginia Tech ! </u>
+# <u>👋 Welcome to Girls Who Code @ Virginia Tech ! </u>
+
+## <u> Past Workshops </u>
+*(coming soon)*
+
+## <u> Opportunities database </u>
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...

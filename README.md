@@ -32,8 +32,11 @@ Girls Who Code is an international nonprofit organization founded in 2012, which
 | -------| ----- | ------ |--------- |
 
 # <u> 🎨 Our Socials </u>
-💌 [Instagram] ()
-💌 Discord
+💌 [LinkTree](https://linktr.ee/girlswhocodevtech) <br>
+💌 [Instagram](https://www.instagram.com/girlswhocodevt/) <br>
+💌 [Discord](https://discord.com/invite/jcZRvEadHq) <br>
+💌 [Join Our Mailing List](https://docs.google.com/forms/d/e/1FAIpQLSdXkLPPLqduzUtDj7vjDWKLkPug0d9kVpHKwDikVJ566Xv7bw/viewform) <br>
+💌 [GobblerConnect](https://gobblerconnect.vt.edu/)
 
 <!---
 GWC-VT/GWC-VT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

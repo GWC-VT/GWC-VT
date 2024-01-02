@@ -3,9 +3,9 @@
 <img src="https://github.com/GWC-VT/GWC-VT/assets/153964685/e98c7a34-89c3-4856-b75d-78a4667dbb64" align="right" alt="Two women working together">
 <br></br>
 <p align="left">
-Girls Who Code is an international nonprofit organization founded in 2012, which aims to support and increase the number of women in computer science. The organization was created with the intention of showing girls that coding is a problem-solving tool that can be used to invent, lead, and explore. 
+Girls Who Code is an international nonprofit organization founded in 2012 which aims to support and increase the number of women in computer science. The organization was created with the intention of showing girls that coding is a problem-solving tool that can be used to invent, lead, and explore. 
 
-  At Virgnia Tech, we're focused on creating an accessible and women-empowering community dedicated to increasing representation, collaboration and interest in technology related fields !
+  At Virgnia Tech, we're focused on creating an accessible and women-empowering community dedicated to increasing representation, collaboration, and interest in technology related fields !
 </p>
 
 # 🔨 Past Workshops 

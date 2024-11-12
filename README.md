@@ -33,9 +33,9 @@ Girls Who Code is an international nonprofit organization founded in 2012 which 
 
 # <u> 🎨 Our Socials </u>
 💌 [**LinkTree**](https://linktr.ee/girlswhocodevtech) <br>
-💌 [**Instagram**](https://www.instagram.com/girlswhocodevt/) <br>
+💌 [**Instagram**](https://www.instagram.com/gwcvt/) <br>
 💌 [**Discord**](https://discord.com/invite/jcZRvEadHq) <br>
-💌 [**Join Our Mailing List**](https://docs.google.com/forms/d/e/1FAIpQLSdXkLPPLqduzUtDj7vjDWKLkPug0d9kVpHKwDikVJ566Xv7bw/viewform) <br>
+💌 [**Join Our Mailing List**]([https://docs.google.com/forms/d/e/1FAIpQLSdXkLPPLqduzUtDj7vjDWKLkPug0d9kVpHKwDikVJ566Xv7bw/viewform](https://forms.office.com/Pages/ResponsePage.aspx?id=hGiVYK0Q-kCGPU8yweOjetfmJh-eV7NNmyO2vtO8LQVUNkM5WkRaVUNWV0ZIVjBCMU9SNEZVVUIzRC4u)) <br>
 💌 [**GobblerConnect**](https://gobblerconnect.vt.edu/)
 
 <!---
